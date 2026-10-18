@@ -1,0 +1,6 @@
+{
+  "name": "Shankar Groscery Shop",
+  "description": "Premium online grocery store for Shankar Groscery Shop in Annadal Village, Tiruvannamalai, Tamil Nadu. Fresh essentials, easy search, cart and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
